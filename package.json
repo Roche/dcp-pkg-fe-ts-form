@@ -1,6 +1,6 @@
 {
   "name": "@open-dcp/form",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "node": ">=18.8.0"
   },
